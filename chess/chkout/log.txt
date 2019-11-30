@@ -1,0 +1,4 @@
+Player 1 - "A1 A3"
+Player 2 - "A8 A3"
+Player 1 - "F2 F3"
+Player 2 - "F7 F5"

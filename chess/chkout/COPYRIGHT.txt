@@ -1,0 +1,8 @@
+
+	Copyright 2017 BongCloudPlayers
+	
+	2018 University of California, Irvine
+
+	All rights reserved. No part of these files may be replicated in any form
+	by any means without permission from the authors.
+
