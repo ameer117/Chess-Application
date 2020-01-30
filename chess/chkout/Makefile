@@ -1,7 +1,7 @@
 ##########################################################################
 # Makefile for BongCloudAI
 # Authors: Yousef Althaqeb, Nicolas Chen, Hugh Fong, 
-# 		Brandon H Lam, Quyen B To
+# 		Brandon H Lam, Quyen B To, Ameer Hussain
 #
 #
 # ########################################################################
